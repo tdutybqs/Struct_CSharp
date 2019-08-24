@@ -1,0 +1,7 @@
+C:\Users\Евгений\source\repos\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Евгений\source\repos\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\Евгений\source\repos\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Евгений\source\repos\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\Евгений\source\repos\DataBase\DataBase\obj\Debug\DataBase.pdb
